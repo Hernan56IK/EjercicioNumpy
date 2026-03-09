@@ -2,6 +2,7 @@ Hernan Dario Garcia Mahecha 2041418
 Juan Camilo Jimenez Toro 2042782
 
 
+
 Simulación de Vectorización (SIMD) – Programación Paralela
 
 Integrantes - Nombre 1 - Nombre 2 - Nombre 3
